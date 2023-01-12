@@ -1,0 +1,2 @@
+com.mytests.spring.boot.newformat.bundles.newformatBootstrapBundle.AnnotatedConfigurationDefinedInAutoConfigurationImports
+com.mytests.spring.boot.newformat.bundles.newformatBootstrapBundle.NotAnnotatedConfigurationDefinedInAutoConfigurationImports

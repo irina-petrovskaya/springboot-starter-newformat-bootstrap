@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mytests.spring.boot.newformat.bundles.newformatBootstrapBundle.ConfigurationFromFactories
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.mytests.spring.boot.newformat.bundles.newformatBootstrapBundle.extra.MyPropertySourceLocatorConfig,\
+com.mytests.spring.boot.newformat.bundles.newformatBootstrapBundle.ConfigurationFromFactoriesBootstrap
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  com.mytests.spring.boot.newformat.bundles.newformatBootstrapBundle.extra.MyEnvironmentPostProcessor
